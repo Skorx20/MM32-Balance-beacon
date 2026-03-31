@@ -1,0 +1,13 @@
+"D:\LenovoSoftstore\Install\IAR\arm\bin\armproc.dll" 
+
+"D:\LenovoSoftstore\Install\IAR\arm\bin\armJET.dll" 
+
+"D:\Works\Keil\MM32\平衡信标\Project\IAR\program\Debug\Exe\MM32F3277.out" 
+
+--plugin="D:\LenovoSoftstore\Install\IAR\arm\bin\armbat.dll" 
+
+--flash_loader="D:\LenovoSoftstore\Install\IAR\arm\config\flashloader\MindMotion\FlashMM32F327xGx.board" 
+
+
+
+
